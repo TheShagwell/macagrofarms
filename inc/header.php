@@ -52,19 +52,19 @@
                     </div>
                     <!-- /.logo-box -->
                     <ul class="main-menu__list">
-                        <li class="dropdown">
+                        <li>
                             <a href="/">Home</a>
                         </li>
                         <li>
                             <a href="about">About</a>
                         </li>
-                        <li class="dropdown"><a href="#">Pages</a>
+                        <li><a href="#">Pages</a>
                             <ul>
                                 <li><a href="services">Services</a></li>
                                 <li><a href="contact">Contact</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown">
+                        <li>
                             <a href="Shop">Shop</a>
                         </li>
                         <li class="dropdown">
@@ -73,14 +73,10 @@
                                 <li><a href="projects">Projects</a></li>
                             </ul>
                         </li>
-<!--                         <li class="dropdown"><a href="blog">News</a>
-                            <ul>
-                                <li><a href="blog">News</a></li>
-                                <li><a href="blog-details">News Details</a></li>
-                            </ul>
-                        </li> -->
                     </ul>
                     <!-- /.main-menu__list -->
+
+                    <span class="fa fa-bars mobile-nav__toggler"></span>
 
                     <div class="main-header__info">
                         <a href="#" class="search-toggler main-header__search-btn"><i class="agrikon-icon-magnifying-glass"></i></a>
@@ -94,7 +90,7 @@
                             <!-- /.main-header__info-phone-content -->
                         </a>
 
-                        <span class="fa fa-bars mobile-nav__toggler"></span>
+                        
                         <!-- /.main-header__info-phone -->
                     </div>
                     <!-- /.main-header__info -->
