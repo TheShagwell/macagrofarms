@@ -73,12 +73,12 @@
                                 <li><a href="projects">Projects</a></li>
                             </ul>
                         </li>
-                        <li class="dropdown"><a href="blog">News</a>
+<!--                         <li class="dropdown"><a href="blog">News</a>
                             <ul>
                                 <li><a href="blog">News</a></li>
                                 <li><a href="blog-details">News Details</a></li>
                             </ul>
-                        </li>
+                        </li> -->
                     </ul>
                     <!-- /.main-menu__list -->
 
