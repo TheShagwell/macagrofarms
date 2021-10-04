@@ -76,11 +76,14 @@
                     </ul>
                     <!-- /.main-menu__list -->
 
-                    <span class="fa fa-bars mobile-nav__toggler"></span>
+                    
 
                     <div class="main-header__info">
                         <a href="#" class="search-toggler main-header__search-btn"><i class="agrikon-icon-magnifying-glass"></i></a>
                         <!-- <a class="main-header__cart-btn" href="#"><i class="agrikon-icon-shopping-cart"></i></a> -->
+
+                        <span class="fa fa-bars mobile-nav__toggler"></span>
+                        
                         <a href="tel:+234(0)9032597686" class="main-header__info-phone">
                             <i class="agrikon-icon-phone-call"></i>
                             <span class="main-header__info-phone-content">
