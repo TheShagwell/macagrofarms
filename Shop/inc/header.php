@@ -61,7 +61,7 @@
                                 <p>Get 35% off for new product </p>
                             </div>
                             <div class="header-top-button">
-                                <a href="shop-fullwidth.html">Shop Now</a>
+                                <a href="shop.php">Shop Now</a>
                             </div>
                             <span class="top-close-button">X</span>
                         </div>
@@ -103,6 +103,11 @@
                                             <li>
                                                 <a href="contact-us">
                                                     <span class="menu-text">Contact</span>
+                                                </a>
+                                            </li>
+                                            <li>
+                                                <a href="my-account">
+                                                    <span class="menu-text">Account</span>
                                                 </a>
                                             </li>
                                         </ul>
