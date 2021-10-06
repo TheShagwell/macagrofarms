@@ -264,7 +264,7 @@
                                     <li class="menu-item-has-children"><a href="my-account">My Account</a>
                                         <ul class="dropdown">
                                             <li><a href="login">Login</a></li>
-                                            <li><a href="Register">Register</a></li>
+                                            <li><a href="register">Register</a></li>
                                         </ul>
                                     </li>
                                 </ul>
