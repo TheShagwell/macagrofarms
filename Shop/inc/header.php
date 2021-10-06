@@ -186,6 +186,11 @@
                                                     <span class="menu-text">Contact</span>
                                                 </a>
                                             </li>
+                                            <li>
+                                                <a href="my-account">
+                                                    <span class="menu-text">Account</span>
+                                                </a>
+                                            </li>
                                         </ul>
                                     </nav>
                                 </div>
