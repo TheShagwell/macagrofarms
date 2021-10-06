@@ -56,22 +56,19 @@
                             <a href="/">Home</a>
                         </li>
                         <li>
-                            <a href="about">About</a>
-                        </li>
-                        <li><a href="#">Pages</a>
-                            <ul>
-                                <li><a href="services">Services</a></li>
-                                <li><a href="contact">Contact</a></li>
-                            </ul>
+                            <a href="projects">Projects</a>
                         </li>
                         <li>
                             <a href="shop">Shop</a>
                         </li>
-                        <li class="dropdown">
-                            <a href="projects">Projects</a>
-                            <ul>
-                                <li><a href="projects">Projects</a></li>
-                            </ul>
+                        <li>
+                            <a href="services">Services</a>
+                        </li>
+                        <li>
+                            <a href="about">About</a>
+                        </li>
+                        <li>
+                            <a href="contact">Contact</a>
                         </li>
                     </ul>
                     <!-- /.main-menu__list -->
@@ -80,7 +77,6 @@
 
                     <div class="main-header__info">
                         <a href="#" class="search-toggler main-header__search-btn"><i class="agrikon-icon-magnifying-glass"></i></a>
-                        <!-- <a class="main-header__cart-btn" href="#"><i class="agrikon-icon-shopping-cart"></i></a> -->
 
                         <span class="fa fa-bars mobile-nav__toggler"></span>
                         
