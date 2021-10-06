@@ -65,7 +65,7 @@
                             </ul>
                         </li>
                         <li>
-                            <a href="Shop">Shop</a>
+                            <a href="shop">Shop</a>
                         </li>
                         <li class="dropdown">
                             <a href="projects">Projects</a>
