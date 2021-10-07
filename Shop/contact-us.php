@@ -115,25 +115,7 @@
         <!-- Google Maps -->
 
         <!-- Google Maps End -->
-        <!-- Support Area Start Here -->
-        <div class="support-area">
-            <div class="container container-default custom-area">
-                <div class="row">
-                    <div class="col-lg-12 col-custom">
-                        <div class="support-wrapper d-flex">
-                            <div class="support-content">
-                                <h1 class="title">Need Help ?</h1>
-                                <p class="desc-content">Email our cutomer support 24/7 at <a href="mailto:info@macagrofarms.com">info@macagrofarms.com</a> </p>
-                            </div>
-                            <div class="support-button d-flex align-items-center">
-                                <a class="obrien-button primary-btn" href="contact-us.html">Contact now</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Support Area End Here -->
+
         <!-- Footer Area Start Here -->
        
         <?php require_once 'inc/footer.php'; ?>

@@ -242,33 +242,7 @@
     </div>
 </div>
 <!-- Newslatter Area End Here -->
-<!-- Feature Area Start Here -->
-<!-- <div class="feature-area mb-no-text">
-            <div class="container container-default custom-area">
-                <div class="row">
-                    <div class="col-xl-6 col-lg-5 col-md-12 col-custom">
-                        <div class="feature-content-wrapper">
-                            <h2 class="title">Important to eat fruit</h2>
-                            <p class="desc-content">Eating fruit provides health benefits — people who eat more fruits and vegetables as part of an overall healthy diet are likely to have a reduced risk of some chronic diseases. Fruits provide nutrients vital for health and
-                                maintenance of your body.</p>
-                            <p class="desc-content"> Fruits are sources of many essential nutrients that are underconsumed, including potassium, dietary fiber, vitamin C, and folate (folic acid).</p>
-                            <p class="desc-content"> Most fruits are naturally low in fat, sodium, and calories. None have cholesterol.</p>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-7 col-md-12 col-custom">
-                        <div class="feature-image position-relative">
-                            <img src="assets/images/feature/feature-2.jpg" alt="Obrien Feature">
-                            <div class="popup-video position-absolute">
-                                <a class="popup-vimeo" href="https://www.youtube.com/watch?v=_9VUPq3SxOc">
-                                    <i class="ion-play"></i>
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div> -->
-<!-- Feature Area End Here -->
+
 <!-- Banner Fullwidth Area Start Here -->
 <div class="banner-fullwidth-area mb-text">
     <div class="container custom-area">
@@ -277,7 +251,7 @@
                 <div class="banner-thumb h-100 d-flex justify-content-center align-items-center">
                     <img src="assets/images/banner/thumb/1.png" style="border-radius: 10px;" alt="Banner Thumb">
                 </div>
-            </div>
+            </div>  
             <div class="col-md-7 col-lg-6 text-center justify-content-center col-custom">
                 <div class="banner-flash-content d-flex flex-column align-items-center justify-content-center h-100">
                     <h2 class="deal-head text-uppercase">Flash Deals</h2>
@@ -449,7 +423,7 @@
                                 href="mailto:info@macagrofarms.com">info@macagrofarms.com</a> </p>
                     </div>
                     <div class="support-button d-flex align-items-center">
-                        <a class="obrien-button primary-btn" href="contact-us.php">Contact now</a>
+                        <a class="obrien-button primary-btn" href="contact-us">Contact now</a>
                     </div>
                 </div>
             </div>

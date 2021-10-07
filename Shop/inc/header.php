@@ -61,7 +61,7 @@
                                 <p>Get 35% off for new product </p>
                             </div>
                             <div class="header-top-button">
-                                <a href="shop-fullwidth.html">Shop Now</a>
+                                <a href="shop.php">Shop Now</a>
                             </div>
                             <span class="top-close-button">X</span>
                         </div>
@@ -270,7 +270,7 @@
                                     <li class="menu-item-has-children"><a href="my-account">My Account</a>
                                         <ul class="dropdown">
                                             <li><a href="login">Login</a></li>
-                                            <li><a href="Register">Register</a></li>
+                                            <li><a href="register">Register</a></li>
                                         </ul>
                                     </li>
                                 </ul>
@@ -288,8 +288,8 @@
                                 </ul>
                             </div>
                             <div class="off-canvas-widget-social">
-                                <a title="Facebook-f" href="#"><i class="fa fa-facebook-f"></i></a>
-                                <a title="Twitter" href="#"><i class="fa fa-twitter"></i></a>
+                                <a title="Facebook-f" href="www.facebook.com/macagrofarms"><i class="fa fa-facebook-f"></i></a>
+                                <a title="Instagram" href="www.instagram.com/macagrofarms"><i class="fa fa-instagram"></i></a>
                                 <a title="Linkedin" href="#"><i class="fa fa-linkedin"></i></a>
                                 <!--  -->
                             </div>
