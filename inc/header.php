@@ -79,6 +79,9 @@
                     
 
                     <div class="main-header__info">
+                        
+                        <span class="fa fa-bars mobile-nav__toggler"></span>
+
                         <a href="#" class="search-toggler main-header__search-btn"><i class="agrikon-icon-magnifying-glass"></i></a>
                         <!-- <a class="main-header__cart-btn" href="#"><i class="agrikon-icon-shopping-cart"></i></a> -->
 
