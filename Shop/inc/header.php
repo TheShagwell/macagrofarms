@@ -258,7 +258,6 @@
                                     <li><a href="about-us">About Us</a></li>
                                     <li><a href="contact-us">Contact</a></li>
                                     <li><a href="my-account">Account</a></li>
-                                    
                                 </ul>
                             </nav>
                             <!-- mobile menu navigation end -->
