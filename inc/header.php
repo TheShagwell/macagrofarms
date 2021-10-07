@@ -89,8 +89,6 @@
                             </span>
                             <!-- /.main-header__info-phone-content -->
                         </a>
-
-                        <span class="fa fa-bars mobile-nav__toggler"></span>
                         <!-- /.main-header__info-phone -->
                     </div>
                     <!-- /.main-header__info -->

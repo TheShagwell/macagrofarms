@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Macagrofarms Store | Online Shopping Bringing Organic Farm Products to your location</title>
-    <meta name="robots" content="index, follow" />
+    <meta name="robots" content="noindex, follow" />
     <meta name="description" content="Macagrofarms is #1 farm product store that offers the best farm products to your niche">
     <meta name="keywords" content="Farm Store, Best Farm Store ever, Sign up page fore macagro farms, Nigeria Farm Product">
     <meta name="title" content="Macagrofarms Store | Online Shopping for Farm Products, Organic Farm Products &amp; More!">
@@ -61,7 +61,7 @@
                                 <p>Get 35% off for new product </p>
                             </div>
                             <div class="header-top-button">
-                                <a href="shop.php">Shop Now</a>
+                                <a href="shop">Shop Now</a>
                             </div>
                             <span class="top-close-button">X</span>
                         </div>
