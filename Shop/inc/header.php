@@ -105,6 +105,11 @@
                                                     <span class="menu-text">Contact</span>
                                                 </a>
                                             </li>
+                                            <li>
+                                                <a href="my-account">
+                                                    <span class="menu-text">Account</span>
+                                                </a>
+                                            </li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -181,6 +186,11 @@
                                                     <span class="menu-text">Contact</span>
                                                 </a>
                                             </li>
+                                            <li>
+                                                <a href="my-account">
+                                                    <span class="menu-text">Account</span>
+                                                </a>
+                                            </li>
                                         </ul>
                                     </nav>
                                 </div>
@@ -247,6 +257,7 @@
                                     <li class="menu-item-has-children"><a href="shop">Shop</a></li>
                                     <li><a href="about-us">About Us</a></li>
                                     <li><a href="contact-us">Contact</a></li>
+                                    <li><a href="my-account">Account</a></li>
                                 </ul>
                             </nav>
                             <!-- mobile menu navigation end -->
@@ -270,13 +281,9 @@
                         <div class="offcanvas-widget-area">
                             <div class="top-info-wrap text-left text-black">
                                 <ul>
-                                    <!-- <li>
-                                        <i class="fa fa-phone"></i>
-                                        <a href="">(1245) 2456 012</a>
-                                    </li> -->
                                     <li>
                                         <i class="fa fa-envelope"></i>
-                                        <a href="mailto:info@macagrofarms">info@macagrofarms</a>
+                                        <a href="mailto:info@macagrofarms">info@macagrofarms.com</a>
                                     </li>
                                 </ul>
                             </div>
