@@ -97,7 +97,7 @@
                                             </li>
                                             <li>
                                                 <a href="about-us">
-                                                    <span class="menu-text"> About</span>
+                                                    <span class="menu-text">About</span>
                                                 </a>
                                             </li>
                                             <li>

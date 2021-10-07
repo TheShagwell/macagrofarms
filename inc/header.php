@@ -76,6 +76,9 @@
                     
 
                     <div class="main-header__info">
+                        
+                        <span class="fa fa-bars mobile-nav__toggler"></span>
+
                         <a href="#" class="search-toggler main-header__search-btn"><i class="agrikon-icon-magnifying-glass"></i></a>
                         
                         <a href="tel:+234(0)9032597686" class="main-header__info-phone">
