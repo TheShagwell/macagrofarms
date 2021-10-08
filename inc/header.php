@@ -73,12 +73,9 @@
                     </ul>
                     <!-- /.main-menu__list -->
 
-                    
+                    <span class="fa fa-bars mobile-nav__toggler"></span>
 
                     <div class="main-header__info">
-                        
-                        <span class="fa fa-bars mobile-nav__toggler"></span>
-
                         <a href="#" class="search-toggler main-header__search-btn"><i class="agrikon-icon-magnifying-glass"></i></a>
                         
                         <a href="tel:+234(0)9032597686" class="main-header__info-phone">
@@ -89,8 +86,6 @@
                             </span>
                             <!-- /.main-header__info-phone-content -->
                         </a>
-
-                        <span class="fa fa-bars mobile-nav__toggler"></span>
                         <!-- /.main-header__info-phone -->
                     </div>
                     <!-- /.main-header__info -->
