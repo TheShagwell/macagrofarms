@@ -166,7 +166,7 @@ function editCat($post) {
 }
 
 function addProduct($post, $loggedAdmin) {
-    $uploadDir = "./functions/uploads/";
+    $uploadDir = "../../assets/img/products";
     $errors = [];
     extract($post);
 
