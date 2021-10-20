@@ -249,7 +249,7 @@
         <div class="row">
             <div class="col-md-5 col-lg-6 text-center col-custom">
                 <div class="banner-thumb h-100 d-flex justify-content-center align-items-center">
-                    <img src="assets/images/banner/thumb/1.png" style="border-radius: 10px;" alt="Banner Thumb">
+                    <img src="assets/images/banner/thumb/1.png" alt="Banner Thumb">
                 </div>
             </div>  
             <div class="col-md-7 col-lg-6 text-center justify-content-center col-custom">
@@ -350,67 +350,6 @@
 </div>
 <!-- Product Area End Here -->
 
-<!-- Brand Logo Area Start Here -->
-<div class="brand-logo-area mt-text mb-no-text">
-    <div class="container custom-area">
-        <div class="row">
-            <div class="col-lg-12 col-custom">
-                <div class="obrien-slider" data-slick-options='{
-                        "slidesToShow": 5,
-                        "slidesToScroll": 1,
-                        "infinite": true,
-                        "arrows": false,
-                        "dots": false
-                        }' data-slick-responsive='[
-                        {"breakpoint": 1200, "settings": {
-                        "slidesToShow": 4
-                        }},
-                        {"breakpoint": 992, "settings": {
-                        "slidesToShow": 3
-                        }},
-                        {"breakpoint": 576, "settings": {
-                        "slidesToShow": 3
-                        }},
-                        {"breakpoint": 481, "settings": {
-                        "slidesToShow": 2
-                        }}
-                        ]'>
-                    <div class="brand-logo-item">
-                        <a href="#">
-                            <img src="assets/images/brand-logo/brand-1.png" alt="Brand Logo">
-                        </a>
-                    </div>
-                    <div class="brand-logo-item">
-                        <a href="#">
-                            <img src="assets/images/brand-logo/brand-2.png" alt="Brand Logo">
-                        </a>
-                    </div>
-                    <div class="brand-logo-item">
-                        <a href="#">
-                            <img src="assets/images/brand-logo/brand-3.png" alt="Brand Logo">
-                        </a>
-                    </div>
-                    <div class="brand-logo-item">
-                        <a href="#">
-                            <img src="assets/images/brand-logo/brand-4.png" alt="Brand Logo">
-                        </a>
-                    </div>
-                    <div class="brand-logo-item">
-                        <a href="#">
-                            <img src="assets/images/brand-logo/brand-5.png" alt="Brand Logo">
-                        </a>
-                    </div>
-                    <div class="brand-logo-item">
-                        <a href="#">
-                            <img src="assets/images/brand-logo/brand-3.png" alt="Brand Logo">
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<!-- Brand Logo Area End Here -->
 <!-- Support Area Start Here -->
 <div class="support-area">
     <div class="container container-default custom-area">

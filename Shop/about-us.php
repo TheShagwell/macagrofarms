@@ -38,11 +38,7 @@
                     <div class="col-xl-6 col-lg-7 col-md-12 col-custom">
                         <div class="feature-image position-relative">
                             <img src="assets/images/feature/feature-2.jpg" alt="Obrien Feature">
-                            <div class="popup-video position-absolute">
-                                <a class="popup-vimeo" href="https://www.youtube.com/watch?v=_9VUPq3SxOc">
-                                    <i class="ion-play"></i>
-                                </a>
-                            </div>
+                        
                         </div>
                     </div>
                 </div>
@@ -50,7 +46,7 @@
         </div>
         <!-- Feature Area End Here -->
         <!-- Newslatter Area Start Here -->
-        <div class="newsletter-area mt-no-text mb-text-p">
+        <div class="newsletter-area mt-no-text mb-text-p" style="margin: 10px 0;">
             <div class="container container-default h-100 custom-area">
                 <div class="row h-100">
                     <div class="col-lg-8 col-xl-5 offset-xl-6 offset-lg-3 col-custom">
@@ -82,67 +78,7 @@
             </div>
         </div>
         <!-- Newslatter Area End Here -->
-        <!-- Brand Logo Area Start Here -->
-        <div class="brand-logo-area mt-text mb-no-text">
-            <div class="container custom-area">
-                <div class="row">
-                    <div class="col-lg-12 col-custom">
-                        <div class="obrien-slider" data-slick-options='{
-                        "slidesToShow": 5,
-                        "slidesToScroll": 1,
-                        "infinite": true,
-                        "arrows": false,
-                        "dots": false
-                        }' data-slick-responsive='[
-                        {"breakpoint": 1200, "settings": {
-                        "slidesToShow": 4
-                        }},
-                        {"breakpoint": 992, "settings": {
-                        "slidesToShow": 3
-                        }},
-                        {"breakpoint": 576, "settings": {
-                        "slidesToShow": 3
-                        }},
-                        {"breakpoint": 481, "settings": {
-                        "slidesToShow": 2
-                        }}
-                        ]'>
-                            <div class="brand-logo-item">
-                                <a href="#">
-                                    <img src="assets/images/brand-logo/brand-1.png" alt="Brand Logo">
-                                </a>
-                            </div>
-                            <div class="brand-logo-item">
-                                <a href="#">
-                                    <img src="assets/images/brand-logo/brand-2.png" alt="Brand Logo">
-                                </a>
-                            </div>
-                            <div class="brand-logo-item">
-                                <a href="#">
-                                    <img src="assets/images/brand-logo/brand-3.png" alt="Brand Logo">
-                                </a>
-                            </div>
-                            <div class="brand-logo-item">
-                                <a href="#">
-                                    <img src="assets/images/brand-logo/brand-4.png" alt="Brand Logo">
-                                </a>
-                            </div>
-                            <div class="brand-logo-item">
-                                <a href="#">
-                                    <img src="assets/images/brand-logo/brand-5.png" alt="Brand Logo">
-                                </a>
-                            </div>
-                            <div class="brand-logo-item">
-                                <a href="#">
-                                    <img src="assets/images/brand-logo/brand-3.png" alt="Brand Logo">
-                                </a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- Brand Logo Area End Here -->
+
         <!-- About Us Area End Here -->
         <!-- Support Area Start Here -->
         <div class="support-area">

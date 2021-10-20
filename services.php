@@ -2,7 +2,7 @@
 <?php require_once 'inc/header.php'; ?>
 
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg-1-1.jpg);"></div>
+            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/all-page-header-bg.jpg);"></div>
             <!-- /.page-header__bg -->
             <div class="container">
                 <ul class="thm-breadcrumb list-unstyled">
@@ -20,7 +20,7 @@
         <section class="service-two service-two__service-page">
             <div class="container">
 
-                <div class="row">
+            <div class="row">
                     <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="service-two__card">
                             <div class="service-two__card-image">
@@ -32,8 +32,8 @@
                                     <i class="agrikon-icon-tractor"></i>
                                 </div>
                                 <!-- /.service-two__card-icon -->
-                                <h3><a href="service-details">Agriculture Products</a></h3>
-                                <p>We deal/sale in all kinds off agricultural products.</p>
+                                <h3><a href="/Shop/shop">Macagro Food Processing Machines</a></h3>
+                                <p>Providing high quality machines for food processing.</p>
                             </div>
                             <!-- /.service-two__card-content -->
                         </div>
@@ -51,9 +51,9 @@
                                     <i class="agrikon-icon-organic-food"></i>
                                 </div>
                                 <!-- /.service-two__card-icon -->
-                                <h3><a href="service-details">Organic
-                                        Products</a></h3>
-                                <p>We sell original organic poducts .</p>
+                                <h3><a href="/Shop/shop">Macagro
+                                        Farm Products</a></h3>
+                                <p>Dealers of Poultry, Fruits, Organic Products etc. Order from the store now. We deliver nationwide</p>
                             </div>
                             <!-- /.service-two__card-content -->
                         </div>
@@ -71,9 +71,9 @@
                                     <i class="agrikon-icon-vegetable"></i>
                                 </div>
                                 <!-- /.service-two__card-icon -->
-                                <h3><a href="service-details">Fresh
-                                        Vegetables</a></h3>
-                                <p>Vegetables are worth eating, join others in purchasing it by visiting our shop</p>
+                                <h3><a href="/Shop/shop">
+                                        Macagro Farm Fruit Products</a></h3>
+                                <p>We currently producing fresh fruits from the farm well packaged to deliver nationwide</p>
                             </div>
                             <!-- /.service-two__card-content -->
                         </div>
@@ -91,8 +91,8 @@
                                     <i class="agrikon-icon-dairy"></i>
                                 </div>
                                 <!-- /.service-two__card-icon -->
-                                <h3><a href="service-details">Pure Honey Product</a></h3>
-                                <p>Honey has been a one most medicated purchase product </p>
+                                <h3><a href="/Shop/shop">Organic Palm Kernel Oil (PKO)</a></h3>
+                                <p>You can now buy medicinal vegetable oil for general cooking. Order today!</p>
                             </div>
                             <!-- /.service-two__card-content -->
                         </div>
@@ -150,11 +150,100 @@
         </section>
         <!-- /.feature-one -->
 
+        <!-- /. Lisitings of products -->
+
+        <section class="service-details" style="padding-top: 0;">
+            <div class="container">
+                <div class="row">
+                      <div class="col-lg-4">
+                        <div class="service-sidebar">
+                            <div class="service-sidebar__links">
+                                <ul>
+                                    <li><a href="Shop/shop">All Services</a></li>
+                                    <li><a href="Shop/shop">Snail Products</a></li>
+
+                                    <li><a href="Shop/shop">Pure Honey Products</a></li>
+
+                                    <li><a href="Shop/shop">Banga Prodct</a></li>
+
+                                    <li><a href="Shop/shop">Catfish Product</a></li>
+                                </ul>
+                            </div>
+                            <!-- /.service-sidebar__links -->
+                            <div class="service-sidebar__call">
+                                <div class="service-sidebar__call-bg" style="background-image: url(assets/images/services/service-widget-bg-1.jpg);"></div>
+                                <!-- /.service-sidebar__call-bg -->
+                                <h3>We sell best agriculture products
+                                </h3>
+                            </div>
+                            <!-- /.service-sidebar__call -->
+                        </div>
+                        <!-- /.service-sidebar -->
+                    </div>
+                    <!-- /.col-lg-4 -->
+                    <div class="col-lg-8">
+                        <img src="assets/images/services/macagro PKO.jpg" alt="">
+                        <h2>Organic Palm Kernel Oil</h2>
+                        <p>Organic Palm kernel Oil is extracted from palm fruit. It is used for preventing Vitamin A deficency, caancer, brain diseases and also for the purpose of eight loss and increasing the body's metabolism. As food, Organic Palm Kernel has fantastic taste with proven 100% Guaranteed for cooking and frying such as french fries, egg-sauce, potato chips and so on. The Aroma is unbelivevable, the taste is 100% and does not get oxidized under high cooking temperatures and during the course of storage. This is different from your regular vegetable oil </p>
+                        <ul class="service-details__list list-unstyled">
+                            <li>
+                                <i class="agrikon-icon-right-arrow"></i>
+                                <strong>It has been proven to have Zero Trans-Fat.</strong> This amazing oil does not contain any Trans-fat, and is hence considered the ideal cooking oil for thosr looking to shed extra pounds
+                            </li>
+                            <li>
+                                <i class="agrikon-icon-right-arrow"></i>
+                                <strong>It is filled with Nutrients</strong> it has 100% Zero Cholestrol having a perfect replacement on lard and butter in the cooking process. People with heart disease can easily switch. It also have Vitamin A reuired for proper vision preventing the occurence of different eye disorder, like night blindness
+                            </li>
+                        </ul>
+                        <!-- /.service-details__list list-unstyled -->
+                        <p>We offer the highest #1 natural 100% quality, Organically, sourced oils in Nigeria. We recommend this oil to everybody and stay healthy as it has to been proven as different from your reguualr cooking vegetable oil in the market </p>
+                        <div class="special-box">Organic Palm Kernel Oil is diffeernt from your regular cooking vegetable oil</div>
+                        <!-- /.special-box -->
+                        <div class="row">
+                            <div class="col-md-6">
+                                <img src="assets/images/services/service-d-1-2.jpg" alt="">
+                            </div>
+                            <!-- /.col-md-6 -->
+                            <div class="col-md-6">
+                                <h4>More Benefits</h4>
+                                <ul class="list-unstyled service-details__list-2">
+                                    <li>
+                                        <i class="fa fa-check-circle"></i> Anti-aging
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-check-circle"></i> Great remedy for Epilepsy attack and convulsion in kids
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-check-circle"></i> Providing Naturally Soft Skin
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-check-circle"></i> Improved Hair Growth on Skin
+                                    </li>
+                                    <li>
+                                        <i class="fa fa-check-circle"></i> Helps in controllinfg High Blood Pressure
+                                    </li>
+                                </ul>
+                                <!-- /.list-unstyled -->
+                            </div>
+                            <!-- /.col-md-6 -->
+                        </div>
+                        <!-- /.row -->
+                        <br>
+                        <br>
+                        <a href="Shop/index" class="thm-btn d-block text-center">Visit Store</a>
+                    </div>
+                    <!-- /.col-lg-8 -->
+                </div>
+                <!-- /.row -->
+            </div>
+            <!-- /.container -->
+        </section>
+
         <section class="call-to-action__two jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% 50%">
             <img class="call-to-action__two__bg jarallax-img" src="assets/images/backgrounds/cta-2-bg-1.jpg" alt="parallax-image" />
             <div class="container">
                 <h3>Agriculture Matters to the Future</h3>
-                <a href="about.html" class="thm-btn">Discover More</a>
+                <a href="Projects" class="thm-btn">Discover More</a>
                 <!-- /.thm-btn -->
             </div>
             <!-- /.container -->
@@ -175,7 +264,7 @@
                         <div class="service-one__box">
                             <img src="assets/images/services/service-1-1.jpg" alt="">
                             <div class="service-one__box-content">
-                                <h3><a href="service-details">Agriculture Leader</a></h3>
+                                <h3><a href="services">Agriculture Leader</a></h3>
                             </div>
                             <!-- /.service-one__box-content -->
                         </div>
@@ -186,7 +275,7 @@
                         <div class="service-one__box">
                             <img src="assets/images/services/service-1-2.jpg" alt="">
                             <div class="service-one__box-content">
-                                <h3><a href="service-details">Quality Standards</a></h3>
+                                <h3><a href="services">Quality Standards</a></h3>
                             </div>
                             <!-- /.service-one__box-content -->
                         </div>
@@ -197,7 +286,7 @@
                         <div class="service-one__box">
                             <img src="assets/images/services/service-1-3.jpg" alt="">
                             <div class="service-one__box-content">
-                                <h3><a href="service-details">Organic Services</a></h3>
+                                <h3><a href="services">Organic Services</a></h3>
                             </div>
                             <!-- /.service-one__box-content -->
                         </div>
@@ -210,56 +299,6 @@
             <!-- /.container -->
         </section>
         <!-- /.service-one -->
-
-        <div class="client-carousel client-carousel__has-border-top">
-            <div class="container">
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 140, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
-                "0": {
-                    "spaceBetween": 30,
-                    "slidesPerView": 2
-                },
-                "375": {
-                    "spaceBetween": 30,
-                    "slidesPerView": 2
-                },
-                "575": {
-                    "spaceBetween": 30,
-                    "slidesPerView": 3
-                },
-                "767": {
-                    "spaceBetween": 50,
-                    "slidesPerView": 4
-                },
-                "991": {
-                    "spaceBetween": 50,
-                    "slidesPerView": 5
-                },
-                "1199": {
-                    "spaceBetween": 100,
-                    "slidesPerView": 5
-                }
-            }}'>
-                    <div class="swiper-wrapper d-flex justify-content-between">
-                        <div class="swiper-slide">
-                            <img src="assets/images/resources/brand-1-1.png" alt="">
-                        </div>
-                        <!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/resources/brand-1-1.png" alt="">
-                        </div>
-                        <!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/resources/brand-1-1.png" alt="">
-                        </div>
-                        <!-- /.swiper-slide -->
-                    </div>
-                    <!-- /.swiper-wrapper -->
-                </div>
-                <!-- /.thm-swiper__slider -->
-            </div>
-            <!-- /.container -->
-        </div>
-        <!-- /.client-carousel -->
 
 
         <section class="call-to-action__three jarallax" data-jarallax data-speed="0.3" data-imgPosition="50% 50%">
@@ -278,7 +317,7 @@
                         <div class="call-to-action__three-content">
                             <h3>Providing High Quality Products
                             </h3>
-                            <a href="about.html" class="thm-btn">Discover More</a>
+                            <a href="Shop/shop" class="thm-btn">Visit Store</a>
                             <!-- /.thm-btn -->
                         </div>
                         <!-- /.call-to-action__three-content -->

@@ -288,9 +288,9 @@
                                 </ul>
                             </div>
                             <div class="off-canvas-widget-social">
-                                <a title="Facebook-f" href="www.facebook.com/macagrofarms"><i class="fa fa-facebook-f"></i></a>
-                                <a title="Instagram" href="www.instagram.com/macagrofarms"><i class="fa fa-instagram"></i></a>
-                                <a title="Linkedin" href="#"><i class="fa fa-linkedin"></i></a>
+                                <a title="Facebook-f" href="https://www.facebook.com/macagrofarms"><i class="fa fa-facebook-f"></i></a>
+                                <a title="Instagram" href="https://www.instagram.com/macagrofarms"><i class="fa fa-instagram"></i></a>
+                                <a title="Linkedin" href="https://www.linkedin.com/macagrofarms"><i class="fa fa-linkedin"></i></a>
                                 <!--  -->
                             </div>
                         </div>

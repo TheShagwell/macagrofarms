@@ -58,7 +58,7 @@
                             <div class="con-info-txt">
                                 <h4>Contact us Anytime</h4>
                                 <p>Mobile:
-                                    <a href="tel:+234(0)903597986">+234 (0)903597986</a> </p>
+                                    <a href="tel:+234(0)903597986">234(0)903597986</a> </p>
                             </div>
                         </div>
                     </div>

@@ -20,7 +20,7 @@
 <?php require_once 'inc/header.php'; ?>
 
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg-1-1.jpg);"></div>
+        <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/all-page-header-bg.jpg);"></div>
             <!-- /.page-header__bg -->
             <div class="container">
                 <ul class="thm-breadcrumb list-unstyled">
@@ -48,14 +48,13 @@
                             </div>
                             <!-- /.block-title -->
                             <div class="contact-one__summery">
-                                <p>Lorem ipsum dolor sit amet, consectetur notted adipisicing elit sed do eiusmod tempor incididunt ut labore et dolore magna aliqua lonm andhn. Aenean tincidunt id mauris id auctor. Donec at ligula lacus dignissim mi quis
-                                    simply neque.</p>
+                                <p>You can now send messages to us and we will reply in a few minutes. Our support line is up for 24/7</p>
                             </div>
                             <!-- /.contact-one__summery -->
                             <div class="contact-one__social">
-                                <a href="#"><i class="fab fa-facebook-square"></i></a>
-                                <a href="#"><i class="fab fa-twitter"></i></a>
-                                <a href="#"><i class="fab fa-instagram"></i></a>
+                                <a href="https://www.facebook.com/macagrofarms"><i class="fab fa-facebook-square"></i></a>
+                                <a href="https://www.linkedin.com/macagrofarms"><i class="fab fa-linkedin"></i></a>
+                                <a href="https://www.instagram.com/macagrofarms"><i class="fab fa-instagram"></i></a>
                             </div>
                             <!-- /.contact-one__social -->
                         </div>
@@ -99,14 +98,14 @@
         </section>
         <!-- /.contact-one -->
 
-        <section class="contact-infos">
+        <section class="contact-infos" style="padding: 50px;">
             <div class="container">
                 <div class="inner-container wow fadeInUp" data-wow-duration="1500ms">
                     <div class="row no-gutters">
                         <div class="col-sm-12 col-md-12 col-lg-4">
                             <div class="contact-infos__single">
                                 <h3>About Company</h3>
-                                <p>Lorem ipsum dolor sit amet consectetur adipiscing elit nulla sit amet lectus neque.</p>
+                                <p>Macagrofarms is #1 Agro-tech leading in 100% Organic farm production nationwide.</p>
                             </div>
                             <!-- /.contact-infos__single -->
                         </div>
@@ -114,7 +113,7 @@
                         <div class="col-sm-12 col-md-12 col-lg-4">
                             <div class="contact-infos__single">
                                 <h3>Visit Company</h3>
-                                <p>66 broklyn golden street line, New York. United States of America.</p>
+                                <p>Egbeleku Town, Off Adeje Town, Near Warri, Delta State.</p>
                             </div>
                             <!-- /.contact-infos__single -->
                         </div>
@@ -122,9 +121,9 @@
                         <div class="col-sm-12 col-md-12 col-lg-4">
                             <div class="contact-infos__single">
                                 <h3>Call or Email</h3>
-                                <p><a href="mailto:needhelp@company.com">needhelp@company.com</a> <br>
-                                    <a href="mailto:info@company.com">info@company.com</a><br>
-                                    <a href="tel:666-888-0000">666 888 0000</a>
+                                <p>
+                                    <a href="mailto:info@macagrofarms.com">info@macagrofarms.com</a><br>
+                                    <a href="tel:+234(0)9032597986">+234(0)9032597986</a>
                                 </p>
                             </div>
                             <!-- /.contact-infos__single -->
@@ -139,9 +138,6 @@
         </section>
         <!-- /.contact-infos -->
 
-        <div class="google-map__home-two">
-            <iframe title="template google map" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4562.753041141002!2d-118.80123790098536!3d34.152323469614075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e82469c2162619%3A0xba03efb7998eef6d!2sCostco+Wholesale!5e0!3m2!1sbn!2sbd!4v1562518641290!5m2!1sbn!2sbd"
-                class="map__home-two" allowfullscreen></iframe>
-        </div>
+       
         <!-- /.google-map -->
    <?php require_once 'inc/footer.php'; ?>

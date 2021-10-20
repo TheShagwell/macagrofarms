@@ -8,7 +8,7 @@
                             <a href="index.html" class="footer-widget__Logo">
                                 <img src="assets/images/Macagrofarm-white-logo.png" width="253" alt="">
                             </a>
-                            <p>Macagrofarms is #1 Digital Agro brand that is leading the fight against food insecurity by improving the livelihood of all individuals.
+                            <p>Macagrofarms is #1 Agro-tech leading in 100% Organic farm production nationwide fighting against food insecurity by improving the livelihood of citizens.
                             </p>
 
                             <form action="#" data-url="YOUR_MAILCHIMP_URL" class="mc-form">
@@ -19,12 +19,10 @@
                             <div class="mc-form__response"></div>
                             <!-- /.mc-form__response -->
                             <div class="footer__social">
-                                <a href="#" class="fab fa-facebook-square"></a>
-                                <a href="#" class="fab fa-twitter"></a>
-                                <a href="#" class="fab fa-linkedin"></a>
-                                <a href="#" class="fab fa-instagram"></a>
+                                <a href="https://www.facebook.com/macagrofarms" class="fab fa-facebook-square"></a>
+                                <a href="https://www.linkedin.com/macagrofarms" class="fab fa-linkedin"></a>
+                                <a href="https://www.instagram.com/macagrofarms" class="fab fa-instagram"></a>
                             </div>
-                            <p>All product pictures shown are for illustration purpose only. Actual product may vary due to product enhancement.</p>
                             <!-- /.topbar__social -->
                         </div>
                         <!-- /.footer-widget -->
@@ -32,14 +30,14 @@
                     <!-- /.col-sm-12 col-md-6 col-lg-4 -->
                     <div class="col-sm-12 col-md-6 col-lg-6 col-xl-2">
                         <div class="footer-widget footer-widget__links-widget">
-                            <h3 class="footer-widget__title">Links</h3>
+                            <h3 class="footer-widget__title">Resources</h3>
                             <!-- /.footer-widget__title -->
                             <ul class="list-unstyled footer-widget__links">
-                                <li><a href="#">Our Projects</a></li>
-                                <li><a href="#">About us</a></li>
-                                <li><a href="#">New Campaign</a></li>
-                                <li><a href="#">Upcoming Events</a></li>
-                                <li><a href="#">Volunteers</a></li>
+                                <li><a href="projects">Our Projects</a></li>
+                                <li><a href="about">About us</a></li>
+                                <li><a href="contact">Contact</a></li>
+                                <li><a href="#">Investment</a></li>
+                                <li><a href="/Shop/index">Farm Products</a></li>
                             </ul>
                             <!-- /.list-unstyled -->
                         </div>
@@ -79,7 +77,7 @@
                         <ul class="list-unstyled footer-widget__contact">
                             <li>
                                 <i class="agrikon-icon-telephone"></i>
-                                <a href="tel:+234(0)9032597686">+234(0)9032597680</a>
+                                <a href="tel:+234(0)9032597686">+234(0)9032597686</a>
                             </li>
                             <li>
                                 <i class="agrikon-icon-email"></i>
@@ -130,7 +128,7 @@
             <span class="mobile-nav__close mobile-nav__toggler"><i class="far fa-times"></i></span>
 
             <div class="logo-box">
-                <a href="index.html" aria-label="logo image"><img src="../assets/images/Macagrofarm-white-logo.png" width="155" alt="" /></a>
+                <a href="index.html" aria-label="logo image"><img src="../assets/images/Macagrofarm-white-logo.png" width="135" alt="" /></a>
             </div>
             <!-- /.logo-box -->
             <div class="mobile-nav__container"></div>
@@ -151,9 +149,9 @@
             
                 <!-- /.mobile-nav__language -->
                 <div class="mobile-nav__social">
-                    <a href="www.facebook.com/macagrofarms" aria-label="facebook"><i class="fab fa-facebook-square"></i></a>
-                    <a href="www.linkedin.com/macagrofarms" aria-label="Linkedin"><i class="fab fa-linkedin"></i></a>
-                    <a href="www.instagram.com/macagrofarms" aria-label="instagram"><i class="fab fa-instagram"></i></a>
+                    <a href="https://www.facebook.com/macagrofarms" aria-label="facebook"><i class="fab fa-facebook-square"></i></a>
+                    <a href="https://www.linkedin.com/macagrofarms" aria-label="Linkedin"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://www.instagram.com/macagrofarms" aria-label="instagram"><i class="fab fa-instagram"></i></a>
                 </div>
                 <!-- /.mobile-nav__social -->
             </div>

@@ -1,7 +1,7 @@
 <?php require_once 'inc/header.php'; ?>
 
         <section class="page-header">
-            <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/page-header-bg-1-1.jpg);"></div>
+        <div class="page-header__bg" style="background-image: url(assets/images/backgrounds/all-page-header-bg.jpg);"></div>
             <!-- /.page-header__bg -->
             <div class="container">
                 <ul class="thm-breadcrumb list-unstyled">
@@ -23,7 +23,7 @@
                         <div class="service-one__box">
                             <img src="assets/images/services/service-1-1.jpg" alt="">
                             <div class="service-one__box-content">
-                                <h3><a href="service-details.html">Agriculture Leader</a></h3>
+                                <h3><a href="projects">Agriculture Leader</a></h3>
                             </div>
                             <!-- /.service-one__box-content -->
                         </div>
@@ -34,7 +34,7 @@
                         <div class="service-one__box">
                             <img src="assets/images/services/service-1-2.jpg" alt="">
                             <div class="service-one__box-content">
-                                <h3><a href="service-details.html">Quality Standards</a></h3>
+                                <h3><a href="projects">Quality Standards</a></h3>
                             </div>
                             <!-- /.service-one__box-content -->
                         </div>
@@ -45,7 +45,7 @@
                         <div class="service-one__box">
                             <img src="assets/images/services/service-1-3.jpg" alt="">
                             <div class="service-one__box-content">
-                                <h3><a href="service-details.html">Organic Services</a></h3>
+                                <h3><a href="projects">Organic Services</a></h3>
                             </div>
                             <!-- /.service-one__box-content -->
                         </div>
@@ -89,15 +89,15 @@
             }}'>
                     <div class="swiper-wrapper d-flex justify-content-between">
                         <div class="swiper-slide">
-                            <img src="assets/images/resources/brand-1-1.png" alt="">
+                            <img src="assets/images/resources/Macagrofarms Official Logo.png" alt="">
                         </div>
                         <!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/resources/brand-1-1.png" alt="">
+                            <img src="assets/images/resources/Macagrofarms Official Logo.png" alt="">
                         </div>
                         <!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <img src="assets/images/resources/brand-1-1.png" alt="">
+                            <img src="assets/images/resources/Macagrofarms Official Logo.png" alt="">
                         </div>
                         <!-- /.swiper-slide -->
                     </div>
@@ -143,6 +143,7 @@
                 <!-- /.row -->
             </div>
             <!-- /.container -->
+
             <div class="team-one__carousel-wrap">
                 <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 0, "slidesPerView": 1, "slidesPerGroup": 1, "autoplay": { "delay": 5000 }, "navigation": {
             "nextEl": "#team-one__swiper-button-next",
@@ -176,9 +177,9 @@
                                 <div class="team-card__image">
                                     <img src="assets/images/team/team-1-1.jpg" alt="Jessica Brown">
                                     <div class="team-card__social">
-                                        <a href="#"><i class="fab fa-facebook-f"></i></a>
-                                        <a href="#"><i class="fab fa-twitter"></i></a>
-                                        <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                                        <a href="https://www.facebook.com/macagrofarms"><i class="fab fa-facebook-f"></i></a>
+                                        <a href="https://www.linkedin.com/macagrofarms"><i class="fab fa-instagram"></i></a>
+                                        <a href="https://www.linkedin.com/macagrofarms"><i class="fab fa-linkedin-in"></i></a>
                                     </div>
                                     <!-- /.team-card__social -->
                                 </div>
@@ -255,7 +256,7 @@
         </section>
         <!-- /.team-one -->
 
-        <section class="testimonials-one testimonials-one__about">
+        <section class="testimonials-one">
             <img src="assets/images/icons/testimonials-bg-1-1.png" class="testimonials-one__bg" alt="">
             <div class="container">
                 <h2 class="testimonials-one__title">Testimonials</h2>
@@ -270,7 +271,7 @@
                                 <i class="fas fa-star"></i>
                             </div>
                             <!-- /.testimonials-one__icons -->
-                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute lorem ipsum is simply free text irure dolor in reprehenderit in esse nulla pariatur.</p>
+                            <p>Well, when i heard about macagrofarms from a friend who bought their products, i was amazed on how they delivered the catfish product without any issues and its very cheap. The truth is that i just bought that catfish to prepare Banga Soup</p>
                         </div>
                         <!-- /.swiper-slide -->
                         <div class="swiper-slide">
@@ -282,7 +283,7 @@
                                 <i class="fas fa-star"></i>
                             </div>
                             <!-- /.testimonials-one__icons -->
-                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute lorem ipsum is simply free text irure dolor in reprehenderit in esse nulla pariatur.</p>
+                            <p>Wow, i got my palm kernel oil i ordered and i can tell you it has a fantastic taste. I can tell you the product has helped me so far skin and health wise. Reduces BP</p>
                         </div>
                         <!-- /.swiper-slide -->
                         <div class="swiper-slide">
@@ -294,7 +295,7 @@
                                 <i class="fas fa-star"></i>
                             </div>
                             <!-- /.testimonials-one__icons -->
-                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute lorem ipsum is simply free text irure dolor in reprehenderit in esse nulla pariatur.</p>
+                            <p>I recevied my package today, thank you macagrofarms, i bought banga, catfish, fruits (pineapple), Palm Oil(Red) in wholesale. it got to me successfully without any issues</p>
                         </div>
                         <!-- /.swiper-slide -->
                     </div>
@@ -334,7 +335,15 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="testimonials-one__meta">
-                                <h4>Jessica Brown</h4>
+                                <h4>Oghenekaro, Warri</h4>
+                                <span>Customer</span>
+                            </div>
+                            <!-- /.testimonials-one__meta -->
+                        </div>
+                        <!-- /.swiper-slide -->
+                        <div class="swiper-slide">
+                            <div class="test    imonials-one__meta">
+                                <h4>Deborah, O - Port Harcourt</h4>
                                 <span>Customer</span>
                             </div>
                             <!-- /.testimonials-one__meta -->
@@ -342,15 +351,7 @@
                         <!-- /.swiper-slide -->
                         <div class="swiper-slide">
                             <div class="testimonials-one__meta">
-                                <h4>Caleb Hoffman</h4>
-                                <span>Customer</span>
-                            </div>
-                            <!-- /.testimonials-one__meta -->
-                        </div>
-                        <!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <div class="testimonials-one__meta">
-                                <h4>Bradley Kim</h4>
+                                <h4>Okiemute, O - Lagos</h4>
                                 <span>Customer</span>
                             </div>
                             <!-- /.testimonials-one__meta -->
@@ -432,7 +433,7 @@
                 </div>
                 <!-- /.call-to-action__content -->
                 <div class="call-to-action__button">
-                    <a href="services.html" class="thm-btn">Visit Store</a>
+                    <a href="/Shop/index.php" class="thm-btn">Visit Store</a>
                     <!-- /.thm-btn -->
                 </div>
                 <!-- /.call-to-action__button -->
