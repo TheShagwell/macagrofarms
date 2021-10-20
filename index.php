@@ -33,7 +33,7 @@
     }'>
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/main-slider/main-slider-1-1.jpg);">
+                        <div class="image-layer" style="background-image: url(assets/images/main-slider/Banner-2.jpg);">
                         </div>
                         <!-- /.image-layer -->
                         <div class="container">
@@ -41,8 +41,8 @@
                                 <div class="col-xl-7 col-lg-7">
                                     <span class="tagline">Welcome to Macagrofarms</span>
                                     <h2><span>Agro Food</span> <br> Production </h2>
-                                    <p>There are many of passages of lorem Ipsum, but the majori have <br> suffered alteration in some form.</p>
-                                    <a href="#" class=" thm-btn">Discover More</a>
+                                    <p>The Farm our pride to feed the nation. Check all our farm products here</p>
+                                    <a href="Shop/shop" class="thm-btn">Discover More</a>
                                     <!-- /.thm-btn dynamic-radius -->
                                 </div>
                                 <!-- /.col-lg-7 text-right -->
@@ -53,16 +53,16 @@
                     </div>
                     <!-- /.swiper-slide -->
                     <div class="swiper-slide">
-                        <div class="image-layer" style="background-image: url(assets/images/main-slider/main-slider-1-2.jpg);">
+                        <div class="image-layer" style="background-image: url(assets/images/main-slider/Banner-1.jpg);">
                         </div>
                         <!-- /.image-layer -->
                         <div class="container">
                             <div class="row">
                                 <div class="col-xl-7 col-lg-7">
-                                    <span class="tagline">Welcome to  Macagrofarms</span>
-                                    <h2><span>Farm Products</span><br> Made Easy</h2>
-                                    <p>There are many of passages of lorem Ipsum, but the majori have <br> suffered alteration in some form.</p>
-                                    <a href="#" class=" thm-btn">Discover More</a>
+                                    <span class="tagline text-dark">Welcome to  Macagrofarms</span>
+                                    <h2 class="text-dark"><span>Products</span><br> Made Easy</h2>
+                                    <p class="text-dark">You can now purchase any farm products on the go. Visit our store today</p>
+                                    <a href="Shop/shop" class="thm-btn">Visit Store</a>
                                     <!-- /.thm-btn dynamic-radius -->
                                 </div>
                                 <!-- /.col-lg-7 text-right -->
@@ -93,9 +93,9 @@
                 <div class="row">
                     <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__box">
-                            <img src="assets/images/services/service-1-1.jpg" alt="">
+                            <img src="assets/images/services/MacPlants.jpg" alt="">
                             <div class="service-one__box-content">
-                                <h3><a href="service-details.html">Agriculture Leader</a></h3>
+                                <h3><a href="services">Agriculture Leader</a></h3>
                             </div>
                             <!-- /.service-one__box-content -->
                         </div>
@@ -104,9 +104,9 @@
                     <!-- /.col-md-12 col-lg-4 -->
                     <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__box">
-                            <img src="assets/images/services/service-1-2.jpg" alt="">
+                            <img src="assets/images/services/Certiied.jpg" alt="">
                             <div class="service-one__box-content">
-                                <h3><a href="service-details.html">Quality Standards</a></h3>
+                                <h3><a href="services">Quality Standards</a></h3>
                             </div>
                             <!-- /.service-one__box-content -->
                         </div>
@@ -115,9 +115,9 @@
                     <!-- /.col-md-12 col-lg-4 -->
                     <div class="col-md-12 col-lg-4 wow fadeInUp" data-wow-duration="1500ms">
                         <div class="service-one__box">
-                            <img src="assets/images/services/service-1-3.jpg" alt="">
+                            <img src="assets/images/services/MPKO.jpg" alt="">
                             <div class="service-one__box-content">
-                                <h3><a href="service-details.html">Organic Services</a></h3>
+                                <h3><a href="services">Organic Product</a></h3>
                             </div>
                             <!-- /.service-one__box-content -->
                         </div>
@@ -137,11 +137,10 @@
                 <div class="row">
                     <div class="col-lg-5">
                         <div class="about-one__images">
-                            <img src="assets/images/resources/about-1-1.jpg" alt="">
-                            <img src="assets/images/resources/about-1-2.jpg" alt="">
+                            <img src="assets/images/resources/macagrofarms.jpg" alt="">
                             <div class="about-one__count wow fadeInLeft" data-wow-duration="1500ms">
                                 <span>Trusted by</span>
-                                <h4>900</h4>
+                                <h4>320</h4>
                             </div>
                             <!-- /.about-one__count -->
                         </div>
@@ -171,7 +170,7 @@
                                     <div class="col-lg-6">
                                         <div class="about-one__box">
                                             <i class="agrikon-icon-farmer"></i>
-                                            <h4><a href="about.html">Professional
+                                            <h4><a href="about">Professional
                                                     Farmers</a></h4>
                                         </div>
                                         <!-- /.about-one__box -->
@@ -180,7 +179,7 @@
                                     <div class="col-lg-6">
                                         <div class="about-one__box">
                                             <i class="agrikon-icon-agriculture"></i>
-                                            <h4><a href="services.html">Organic & Farm
+                                            <h4><a href="/Shop/shop">Organic & Farm
                                                     Products</a></h4>
                                         </div>
                                         <!-- /.about-one__box -->
@@ -190,8 +189,7 @@
                                 <!-- /.row -->
                             </div>
                             <!-- /.about-one__icon-row -->
-                            <a href="about.html" class="thm-btn">Learn More</a>
-                            <!-- /.thm-btn -->
+                         
                         </div>
                         <!-- /.about-one__content -->
                     </div>
@@ -218,16 +216,16 @@
                     <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="service-two__card">
                             <div class="service-two__card-image">
-                                <img src="assets/images/services/service-2-3.jpg" alt="">
+                                <img src="assets/images/services/Snail.jpg" alt="">
                             </div>
                             <!-- /.service-two__card-image -->
                             <div class="service-two__card-content">
                                 <div class="service-two__card-icon">
-                                    <i class="agrikon-icon-tractor"></i>
+                                <img src="assets/images/services/Vector 62.png" alt="fish_farming" height="45px">
                                 </div>
                                 <!-- /.service-two__card-icon -->
-                                <h3><a href="service-details.html">Agriculture Products</a></h3>
-                                <p>We deal/sale in all kinds off agricultural products.</p>
+                                <h3><a href="/Shop/shop">Macagro Food Processing Machines</a></h3>
+                                <p>Providing high quality machines for food processing.</p>
                             </div>
                             <!-- /.service-two__card-content -->
                         </div>
@@ -245,9 +243,9 @@
                                     <i class="agrikon-icon-organic-food"></i>
                                 </div>
                                 <!-- /.service-two__card-icon -->
-                                <h3><a href="service-details.html">Organic
-                                        Products</a></h3>
-                                <p>We sell original organic poducts .</p>
+                                <h3><a href="/Shop/shop">Macagro
+                                        Farm Products</a></h3>
+                                <p>Dealers of Poultry, Fruits, Organic Products etc. Order from the store now. We deliver nationwide</p>
                             </div>
                             <!-- /.service-two__card-content -->
                         </div>
@@ -265,9 +263,9 @@
                                     <i class="agrikon-icon-vegetable"></i>
                                 </div>
                                 <!-- /.service-two__card-icon -->
-                                <h3><a href="service-details.html">Fresh
-                                        Vegetables</a></h3>
-                                <p>Vegetables are worth eating, join others in purchasing it by visiting our shop</p>
+                                <h3><a href="/Shop/shop">
+                                        Macagro Farm Fruit Products</a></h3>
+                                <p>We currently producing fresh fruits from the farm well packaged to deliver nationwide</p>
                             </div>
                             <!-- /.service-two__card-content -->
                         </div>
@@ -277,16 +275,16 @@
                     <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="service-two__card">
                             <div class="service-two__card-image">
-                                <img src="assets/images/services/service-1-3.jpg" alt="">
+                                <img src="assets/images/services/fish_farm.jpg" alt="">
                             </div>
                             <!-- /.service-two__card-image -->
                             <div class="service-two__card-content">
                                 <div class="service-two__card-icon">
-                                    <i class="agrikon-icon-dairy"></i>
+                                <img src="assets/images/services/fish_farming.png" alt="fish_farming" height="45px">
                                 </div>
                                 <!-- /.service-two__card-icon -->
-                                <h3><a href="service-details.html">Pure Honey Product</a></h3>
-                                <p>Honey has been a one most medicated purchase product </p>
+                                <h3><a href="/Shop/shop">Fish Farming</a></h3>
+                                <p>You can now buy catfish in bulk from the store. We deliver it in good condition. Place Your Order Now;</p>
                             </div>
                             <!-- /.service-two__card-content -->
                         </div>
@@ -374,8 +372,8 @@
                 <div class="row">
                     <div class="col-lg-5 wow fadeInLeft" data-wow-duration="1500ms">
                         <div class="call-to-action__three-image">
-                            <img src="assets/images/resources/cta-3-1.jpg" alt="">
-                            <img src="assets/images/resources/cta-3-2.jpg" alt="">
+                            <img src="assets/images/resources/macagro_lady.jpg" alt="">
+                            <img src="assets/images/resources/macagro_plantain.jpg" alt="">
                         </div>
                         <!-- /.call-to-action__three-image -->
                     </div>
@@ -384,7 +382,7 @@
                         <div class="call-to-action__three-content">
                             <h3>Visit our Store</h3>
                             <p class="text-white">Get all available products from our store today with SHIKINI Money! </p>
-                            <a href="../Shop/index.html" class="thm-btn">Visit Store</a>
+                            <a href="/Shop/index.php" class="thm-btn">Visit Store</a>
                             <!-- /.thm-btn -->
                         </div>
                         <!-- /.call-to-action__three-content -->
@@ -412,7 +410,7 @@
                                 <i class="fas fa-star"></i>
                             </div>
                             <!-- /.testimonials-one__icons -->
-                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute lorem ipsum is simply free text irure dolor in reprehenderit in esse nulla pariatur.</p>
+                            <p>Well, when i heard about macagrofarms from a friend who bought their products, i was amazed on how they delivered the catfish product without any issues and its very cheap. The truth is that i just bought that catfish to prepare Banga Soup</p>
                         </div>
                         <!-- /.swiper-slide -->
                         <div class="swiper-slide">
@@ -424,21 +422,10 @@
                                 <i class="fas fa-star"></i>
                             </div>
                             <!-- /.testimonials-one__icons -->
-                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute lorem ipsum is simply free text irure dolor in reprehenderit in esse nulla pariatur.</p>
+                            <p>Wow, i got my palm kernel oil i ordered and i can tell you it has a fantastic taste. I can tell you the product has helped me so far skin and health wise. Reduces BP</p>
                         </div>
                         <!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <div class="testimonials-one__icons">
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                                <i class="fas fa-star"></i>
-                            </div>
-                            <!-- /.testimonials-one__icons -->
-                            <p>This is due to their excellent service, competitive pricing and customer support. It’s throughly refresing to get such a personal touch. Duis aute lorem ipsum is simply free text irure dolor in reprehenderit in esse nulla pariatur.</p>
-                        </div>
-                        <!-- /.swiper-slide -->
+                      
                     </div>
                     <!-- /.swiper-wrapper -->
                 </div>
@@ -448,25 +435,19 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="testimonials-one__image">
-                                <img src="assets/images/resources/testimonials-1-1.jpg" alt="">
+                                <img src="assets/images/resources/customer2.jpg" alt="">
                             </div>
                             <!-- /.testimonials-one__image -->
                         </div>
                         <!-- /.swiper-slide -->
                         <div class="swiper-slide">
                             <div class="testimonials-one__image">
-                                <img src="assets/images/resources/testimonials-1-2.jpg" alt="">
+                                <img src="assets/images/resources/customer1.jpg" alt="">
                             </div>
                             <!-- /.testimonials-one__image -->
                         </div>
                         <!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <div class="testimonials-one__image">
-                                <img src="assets/images/resources/testimonials-1-3.jpg" alt="">
-                            </div>
-                            <!-- /.testimonials-one__image -->
-                        </div>
-                        <!-- /.swiper-slide -->
+                        
                     </div>
                     <!-- /.swiper-wrapper -->
                 </div>
@@ -476,23 +457,15 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="testimonials-one__meta">
-                                <h4>Oghenekaro Damian</h4>
+                                <h4>Kelvin, E - Warri</h4>
                                 <span>Customer</span>
                             </div>
                             <!-- /.testimonials-one__meta -->
                         </div>
                         <!-- /.swiper-slide -->
                         <div class="swiper-slide">
-                            <div class="testimonials-one__meta">
-                                <h4>Ejike C.J</h4>
-                                <span>Customer</span>
-                            </div>
-                            <!-- /.testimonials-one__meta -->
-                        </div>
-                        <!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <div class="testimonials-one__meta">
-                                <h4>David Chukwuemeka</h4>
+                            <div class="test    imonials-one__meta">
+                                <h4>Kite, O - Lagos</h4>
                                 <span>Customer</span>
                             </div>
                             <!-- /.testimonials-one__meta -->
@@ -510,105 +483,8 @@
 
         <section class="gray-boxed-wrapper home-one__boxed">
             <img src="assets/images/icons/home-1-blog-bg.png" alt="" class="home-one__boxed-bg">
-            <section class="blog-home-two blog-home-one">
-                <div class="container">
-                    <div class="row top-row">
-                        <div class="col-lg-6">
-                            <div class="block-title">
-                                <div class="block-title__image"></div>
-                                <!-- /.block-title__image -->
-                                <p>From the blog post</p>
-                                <h3>Latest News & Articles Directly from Blog</h3>
-                            </div>
-                            <!-- /.block-title -->
-                        </div>
-                        <!-- /.col-lg-6 -->
-                        <div class="col-lg-6">
-                            <p class="block-text">These are latest news from our blog where you get to see whats happening in the farm. It's from these end also you get to get updates from our store. Don't forget to visit our store today</p>
-                        </div>
-                        <!-- /.col-lg-6 -->
-                    </div>
-                    <!-- /.row -->
-                    <div class="row">
-                        <div class="col-md-12 col-lg-4">
-                            <div class="blog-card">
-                                <div class="blog-card__image">
-                                    <img src="assets/images/blog/blog-grid-1.jpg" alt="Best Way to Do Eco and Agriculture">
-                                    <a href="blog-details.html"></a>
-                                </div>
-                                <!-- /.blog-card__image -->
-                                <div class="blog-card__content">
-                                    <div class="blog-card__date">08 August</div>
-                                    <!-- /.blog-card__date -->
-                                    <div class="blog-card__meta">
-                                        <a href="blog-details.html"><i class="far fa-user-circle"></i> by Admin</a>
-                                        <a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
-                                    </div>
-                                    <!-- /.blog-card__meta -->
-                                    <h3><a href="blog-details.html">Best Way to cultivate cassava</a></h3>
-                                    <a href="blog-details.html" class="thm-btn">Read More</a>
-                                    <!-- /.thm-btn -->
-                                </div>
-                                <!-- /.blog-card__content -->
-                            </div>
-                            <!-- /.blog-card -->
-                        </div>
-                        <!-- /.col-md-12 col-lg-4 -->
-                        <div class="col-md-12 col-lg-4">
-                            <div class="blog-card">
-                                <div class="blog-card__image">
-                                    <img src="assets/images/blog/blog-grid-2.jpg" alt="Leverage agile frameworks to provide">
-                                    <a href="blog-details.html"></a>
-                                </div>
-                                <!-- /.blog-card__image -->
-                                <div class="blog-card__content">
-                                    <div class="blog-card__date">18 August</div>
-                                    <!-- /.blog-card__date -->
-                                    <div class="blog-card__meta">
-                                        <a href="blog-details.html"><i class="far fa-user-circle"></i> by Admin</a>
-                                        <a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
-                                    </div>
-                                    <!-- /.blog-card__meta -->
-                                    <h3><a href="blog-details.html">Organic Palm Kernel Oil and its important</a></h3>
-                                    <a href="blog-details.html" class="thm-btn">Read More</a>
-                                    <!-- /.thm-btn -->
-                                </div>
-                                <!-- /.blog-card__content -->
-                            </div>
-                            <!-- /.blog-card -->
-                        </div>
-                        <!-- /.col-md-12 col-lg-4 -->
-                        <div class="col-md-12 col-lg-4">
-                            <div class="blog-card">
-                                <div class="blog-card__image">
-                                    <img src="assets/images/blog/blog-grid-3.jpg" alt="Organically grow the holistic world view">
-                                    <a href="blog-details.html"></a>
-                                </div>
-                                <!-- /.blog-card__image -->
-                                <div class="blog-card__content">
-                                    <div class="blog-card__date">01 Sept</div>
-                                    <!-- /.blog-card__date -->
-                                    <div class="blog-card__meta">
-                                        <a href="blog-details.html"><i class="far fa-user-circle"></i> by Admin</a>
-                                        <a href="blog-details.html"><i class="far fa-comments"></i> 2 Comments</a>
-                                    </div>
-                                    <!-- /.blog-card__meta -->
-                                    <h3><a href="blog-details.html">Snails Farming and the way about </a></h3>
-                                    <a href="blog-details.html" class="thm-btn">Read More</a>
-                                    <!-- /.thm-btn -->
-                                </div>
-                                <!-- /.blog-card__content -->
-                            </div>
-                            <!-- /.blog-card -->
-                        </div>
-                        <!-- /.col-md-12 col-lg-4 -->
-                    </div>
-                    <!-- /.row -->
-                    <hr />
-                </div>
-                <!-- /.container -->
-            </section>
-            <!-- /.blog-home-two -->
+            
+          
             <div class="blog-home__slogan">
                 <div class="container">
                     <div class="row">
@@ -617,7 +493,7 @@
                                 <i class="agrikon-icon-farm"></i>
                                 <div class="blog-home__slogan-content">
                                     <h3>We Care About Our Agriculture Growth</h3>
-                                    <p>Over the years, Macagrofarms is the #1 producers in all farm products ranging from organic products and others and we are highly esteemed by customers and companies, brands for serving quality products.</p>
+                                    <p>Over the years, Macagrofarms are producers and suppliers of 100% organic farm products delivered to our unique new and old customers nationwide. Visit our store today and place your favourite farm products order today!</p>
                                 </div>
                                 <!-- /.blog-home__slogan-content -->
                             </div>
@@ -628,7 +504,6 @@
                             <div class="blog-home__slogan-image">
                                 <img src="assets/images/resources/blog-cta-1.png" alt="">
                             </div>
-                            <!-- /.blog-home__slogan-image -->
                         </div>
                         <!-- /.col-lg-3 -->
                     </div>
@@ -711,55 +586,4 @@
         <!-- /.contact-two -->
 
 
-
-        <div class="client-carousel client-carousel__has-border-top">
-            <div class="container">
-                <div class="thm-swiper__slider swiper-container" data-swiper-options='{"spaceBetween": 140, "slidesPerView": 5, "autoplay": { "delay": 5000 }, "breakpoints": {
-                "0": {
-                    "spaceBetween": 30,
-                    "slidesPerView": 2
-                },
-                "375": {
-                    "spaceBetween": 30,
-                    "slidesPerView": 2
-                },
-                "575": {
-                    "spaceBetween": 30,
-                    "slidesPerView": 3
-                },
-                "767": {
-                    "spaceBetween": 50,
-                    "slidesPerView": 4
-                },
-                "991": {
-                    "spaceBetween": 50,
-                    "slidesPerView": 5
-                },
-                "1199": {
-                    "spaceBetween": 100,
-                    "slidesPerView": 5
-                }
-            }}'>
-                    <div class="swiper-wrapper d-flex justify-content-between">
-                        <div class="swiper-slide">
-                            <img src="assets/images/resources/brand-1-1.png" alt="">
-                        </div>
-                        <!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/resources/brand-1-1.png" alt="">
-                        </div>
-                        <!-- /.swiper-slide -->
-                        <div class="swiper-slide">
-                            <img src="assets/images/resources/brand-1-1.png" alt="">
-                        </div>
-                        <!-- /.swiper-slide -->
-                    </div>
-                    <!-- /.swiper-wrapper -->
-                </div>
-                <!-- /.thm-swiper__slider -->
-            </div>
-            <!-- /.container -->
-        </div>
-        <!-- /.client-carousel -->
-      
     <?php require_once 'inc/footer.php'; ?>

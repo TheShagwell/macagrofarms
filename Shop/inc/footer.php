@@ -9,38 +9,38 @@
                                         <img src="assets/images/logo/Macagrofarm-white-logo.png" alt="Logo Image">
                                     </a>
                                 </div>
-                                <p class="desc-content">Macagrofarms is the #1 producer of farm products across Africa and beyond. What kind of agro products do you need, you can get here soluta nobis</p>
+                                <p class="desc-content">Macagrofarms is #1 Agro-tech leading in 100% Organic farm production nationwide fighting against food insecurity by improving the livelihood of citizens.</p>
                                 <div class="social-links">
                                     <ul class="d-flex">
                                         <li>
-                                            <a class="border rounded-circle" href="#" title="Facebook">
+                                            <a class="border rounded-circle" href="https://www.facebook.com/macagrofarms" title="Facebook">
                                                 <i class="fa fa-facebook-f"></i>
                                             </a>
                                         </li>
                                         <li>
-                                            <a class="border rounded-circle" href="#" title="Twitter">
-                                                <i class="fa fa-twitter"></i>
-                                            </a>
-                                        </li>
-                                        <li>
-                                            <a class="border rounded-circle" href="#" title="Linkedin">
+                                            <a class="border rounded-circle" href="https://www.linkedin.com/macagrofarms" title="Linkedin">
                                                 <i class="fa fa-linkedin"></i>
                                             </a>
                                         </li>
-
+                                        <li>
+                                            <a class="border rounded-circle" href="https://www.instagram.com/macagrofarms" title="Twitter">
+                                                <i class="fa fa-instagram"></i>
+                                            </a>
+                                        </li>
                                     </ul>
                                 </div>
                             </div>
                         </div>
                         <div class="col-12 col-sm-6 col-md-6 col-lg-2 col-custom">
                             <div class="single-footer-widget">
-                                <h2 class="widget-title">Information</h2>
+                                <h2 class="widget-title">Resources</h2>
                                 <ul class="widget-list">
-                                    <li><a href="about-us.html">Our Company</a></li>
-                                    <li><a href="contact-us.html">Contact Us</a></li>
-                                    <li><a href="about-us.html">Our Services</a></li>
-                                    <li><a href="about-us.html">Why We?</a></li>
-                                    <li><a href="about-us.html">Careers</a></li>
+                                    <li><a href="index">Our Company</a></li>
+                                    <li><a href="contact-us">Help Center</a></li>
+                                    <li><a href="#">Black Friday</a></li>
+                                    <li><a href="contact-us">Report a Product</a></li>
+                                    <li><a href="contact-us">Affiliate</a></li>
+                                    <li><a href="contact-us">Become a Seller</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -48,11 +48,11 @@
                             <div class="single-footer-widget">
                                 <h2 class="widget-title">Quicklink</h2>
                                 <ul class="widget-list">
-                                    <li><a href="about-us.html">About</a></li>
+                                    <li><a href="about-us">About</a></li>
                                     <li><a href="blog.html">Blog</a></li>
-                                    <li><a href="shop.html">Shop</a></li>
+                                    <li><a href="shop">Shop</a></li>
                                     <li><a href="frequently-questions.html">FAQ</a></li>
-                                    <li><a href="contact-us.html">Contact</a></li>
+                                    <li><a href="contact-us">Write Us?</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -72,7 +72,7 @@
                             <div class="single-footer-widget">
                                 <h2 class="widget-title">See Information</h2>
                                 <div class="widget-body">
-                                    <address>123, H2, Road #21, Main City, Your address goes here.<br>Phone: 01254 698 785, 36598 254 987<br>Email: <a href="mailto:info@macagrofarms.com">info@macagrofarms.com</a></address>
+                                    <address>Delta State, Nigeria<br>Email: <a href="mailto:info@macagrofarms.com">info@macagrofarms.com</a></address>
                                 </div>
                             </div>
                         </div>

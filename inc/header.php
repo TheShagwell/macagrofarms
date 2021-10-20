@@ -47,7 +47,7 @@
             <nav class="main-menu">
                 <div class="container">
                     <div class="logo-box">
-                        <a href="/" aria-label="logo image"><img src="assets/images/Macagrofarms Official Logo.png" width="153" alt=""></a>
+                        <a href="/" aria-label="logo image"><img src="assets/images/Macagrofarms Official Logo.png" width="183" alt=""></a>
 
                     </div>
                     <!-- /.logo-box -->
@@ -73,7 +73,7 @@
                     </ul>
                     <!-- /.main-menu__list -->
 
-                    <span class="fa fa-bars mobile-nav__toggler"></span>
+                   
 
                     <div class="main-header__info">
                         <a href="#" class="search-toggler main-header__search-btn"><i class="agrikon-icon-magnifying-glass"></i></a>
@@ -89,6 +89,8 @@
                         <!-- /.main-header__info-phone -->
                     </div>
                     <!-- /.main-header__info -->
+
+                     <span class="fa fa-bars mobile-nav__toggler"></span>
                 </div>
                 <!-- /.container -->
             </nav>

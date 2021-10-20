@@ -365,6 +365,7 @@ button,
     -webkit-justify-content: center;
     -ms-flex-pack: center;
     justify-content: center;
+    align-items: center;
     text-align: center;
     opacity: 0;
     visibility: hidden;
@@ -1931,7 +1932,7 @@ button,
 
 .footer-area .footer-widget-area {
     padding: 100px 0;
-    background-color: #1B1B1C
+    background-color: #055c0b;
 }
 
 @media (max-width: 991px) {
@@ -1966,14 +1967,17 @@ button,
     height: 30px;
     line-height: 30px;
     text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
     margin-right: 5px;
     color: #D8D8D8;
     border-color: #D8D8D8
 }
 
 .footer-area .single-footer-widget .social-links ul li a:hover {
-    color: #0E7A15 !important;
-    border-color: #0E7A15 !important
+    color: #D8D8D8 !important;
+    border-color: #D8D8D8 !important
 }
 
 .footer-area .single-footer-widget .widget-title {
@@ -2001,7 +2005,7 @@ button,
 
 .footer-area .single-footer-widget .widget-list li a:hover {
     margin-left: 5px;
-    color: #0E7A15
+    color: #D8D8D8;
 }
 
 .footer-area .single-footer-widget .widget-body address {
@@ -2011,7 +2015,7 @@ button,
 }
 
 .footer-area .footer-copyright-area {
-    background-color: #000000;
+    background-color: #055c0b;
     padding: 20px 0px
 }
 
@@ -4382,13 +4386,14 @@ button,
 }
 
 .obrien-button.primary-btn:hover {
-    background-color: #d8d8d8;
-    color: #1b1b1c
+    border: 2px solid #0E7A15;
+    background-color: transparent;
+    color: #0E7A15;
 }
 
 .obrien-button.white-btn {
     background-color: #d8d8d8;
-    color: #1b1b1c
+    color: #0E7A15
 }
 
 .obrien-button.white-btn:hover {
@@ -4445,12 +4450,12 @@ button,
 
 .obrien-button-2.primary-color {
     color: #ffffff;
-    background: #0E7A15
+    background: #0E7A15;
 }
 
 .obrien-button-2.primary-color:hover {
-    color: #000000;
-    background: #d8d8d8
+    color: #d8d8d8;
+    background: #0E7A15
 }
 
 .obrien-button-2:focus {
@@ -5560,7 +5565,7 @@ button,
 
 .breadcrumbs-area {
     padding: 100px 0;
-    background: #f6f6f6 url(../images/bg/1-1.jpg) no-repeat scroll center center/cover
+    background: #f6f6f6 url(../images/bg/1-1-1.jpg) no-repeat scroll center center/cover
 }
 
 .breadcrumbs-area:before {
